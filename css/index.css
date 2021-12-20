@@ -3266,7 +3266,7 @@ blockquote footer cite:before {
   transition: all 0.5s;
 }
 #page-header.full_page {
-  height: 100vh;
+  height: 300px;
   background-attachment: fixed;
 }
 #page-header.full_page #site-info {
@@ -4256,6 +4256,7 @@ blockquote footer cite:before {
 #sidebar #sidebar-menus .menus_items .menus_item_child {
   margin: 0;
   list-style: none;
+  display: none;
 }
 #vcomment {
   font-size: 1.1em;
